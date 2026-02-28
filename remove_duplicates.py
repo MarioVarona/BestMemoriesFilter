@@ -6,7 +6,7 @@ from tqdm import tqdm
 from send2trash import send2trash
 
 # Configuration
-TARGET_DIR = "/memories/best"
+TARGET_DIR = "Best"
 
 def get_file_hash(filepath, block_size=65536):
     """Generates an MD5 hash of the file."""

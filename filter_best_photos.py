@@ -23,8 +23,8 @@ except ImportError:
     print("To support them, run: pip3 install pillow-heif")
 
 # Configuration
-SOURCE_DIR = "/memories"
-DEST_DIR = "/memories/best"
+SOURCE_DIR = "."
+DEST_DIR = "Best"
 SUPPORTED_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp', '.heic'}
 
 # We use the CLIP model which is excellent at understanding both image content and quality from text
