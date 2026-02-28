@@ -1,4 +1,4 @@
-# Best Memories
+# Best Memories Filter
 
 This repository contains a collection of scripts designed to help curate and manage your photo collection, specifically tailored for selecting the best memories for digital frames or personal archives.
 
